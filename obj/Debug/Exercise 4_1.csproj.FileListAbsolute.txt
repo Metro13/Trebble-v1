@@ -1,0 +1,10 @@
+C:\Users\METRO\source\repos\Exercise 4_1\Exercise 4_1\bin\Debug\Exercise 4_1.exe.config
+C:\Users\METRO\source\repos\Exercise 4_1\Exercise 4_1\bin\Debug\Exercise 4_1.exe
+C:\Users\METRO\source\repos\Exercise 4_1\Exercise 4_1\bin\Debug\Exercise 4_1.pdb
+C:\Users\METRO\source\repos\Exercise 4_1\Exercise 4_1\obj\Debug\Exercise 4_1.csprojAssemblyReference.cache
+C:\Users\METRO\source\repos\Exercise 4_1\Exercise 4_1\obj\Debug\Exercise_4_1.Form1.resources
+C:\Users\METRO\source\repos\Exercise 4_1\Exercise 4_1\obj\Debug\Exercise_4_1.Properties.Resources.resources
+C:\Users\METRO\source\repos\Exercise 4_1\Exercise 4_1\obj\Debug\Exercise 4_1.csproj.GenerateResource.cache
+C:\Users\METRO\source\repos\Exercise 4_1\Exercise 4_1\obj\Debug\Exercise 4_1.csproj.CoreCompileInputs.cache
+C:\Users\METRO\source\repos\Exercise 4_1\Exercise 4_1\obj\Debug\Exercise 4_1.exe
+C:\Users\METRO\source\repos\Exercise 4_1\Exercise 4_1\obj\Debug\Exercise 4_1.pdb
